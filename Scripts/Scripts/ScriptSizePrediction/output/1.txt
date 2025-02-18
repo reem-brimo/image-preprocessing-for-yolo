@@ -1,0 +1,3 @@
+Predicted main class 67, Claculated width and height 6.212268 5.914709 
+Closest subclass: C15_SMDALUPOLCAP_D6, Closest subclass width and height 8.000000 5.000000 
+
